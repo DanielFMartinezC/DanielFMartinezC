@@ -21,45 +21,29 @@ Here are some ideas to get you started:
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
+🌱 I’m currently working on my academic projects (that you can find below) to improve my skills to be a potential added value in any working group, learning and improving my knowledge of the actual technologies I work
 
- I enjoy being part of a teamwork because I can learn from my teammates and work together in order to achieve goals .
+👯 I’m currently looking for a job to achieve a better life, learn and be my best version.
 
- I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
+⚡ Fun fact: I am studying Philosophy and I enjoy challenging myself to solve logical problems in code
 
-<table border="0">
- <tr>
-    <td>Javascript</td>
-    <td>TypeScript</td>
- </tr>
-<tr>
-    <td>NodeJS</td>
-    <td>Express Web Server</td>
- </tr>
- <tr>
-    <td>ReactJS</td>
-    <td>React Native</td>
- </tr>
-<tr>
-    <td>Redux</td>
-    <td>Redux Toolkit</td>
- </tr>
-<tr>
-    <td>HTML</td>
-    <td>CSS</td>
- </tr>
- <tr>
-    <td>API's RESTful</td>
-    <td>Git</td>
- </tr>
- <tr>
-    <td>PostgreSQL</td>
-    <td>Sequelize</td>
- </tr>
- <tr>
-    <td>MongoDB</td>
-    <td>Mongoose</td>
- </tr>
-</table>
+🚀 I did the bootcamp of fullstack developer in HENRY, an intensive course of more than 700 hours where I learned various technologies such as:
+
+<ul>
+    <li>Javascript (ES6)</li>
+    <li>ReactJS</li>
+    <li>Redux & Redux Toolkit</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>NodeJS</li>
+    <li>Express Web Server</li>
+    <li>API's RESTful</li>
+    <li>Git</li>
+    <li>PostgreSQL</li>
+    <li>Sequelize</li>
+    <li>Mongo - Mongoose</li>
+
+</ul>
 
 <br>
 
